@@ -15,6 +15,8 @@ I'm working on a very big project:
 
 ## How to run my Docker images
 
+## 2025 Update:
+As of now, **My Linux GPG Key problem** has been **fixed**, And, the OS was gonna be HackerOS but, I discontinued it and **MathLang**, idk if im gonna still develop it and im working on **MCP (Model Context Protocol)** as of now.
 ### PyCalc
 
 ```bash
