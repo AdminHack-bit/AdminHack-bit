@@ -2,11 +2,9 @@
 
 Hi, I'm **AdminHack-bit** and I use Docker for many things.  
 My Docker Hub username is **adminhack1**.  
-I will upload most of my images to GitHub due to a Linux GPG key problem.
 
 I'm working on a very big project:  
-- An OS made in Python  
-- A custom programming language named **MathLang**
+- Android on Windows phones (not Windows Phone but Windows Mobile 5/6/6.5 do not get confused with Windows 10 Mobile)
 
 ## Recent Docker images
 
@@ -15,8 +13,8 @@ I'm working on a very big project:
 
 ## How to run my Docker images
 
-## 2025 Update:
-As of now, **My Linux GPG Key problem** has been **fixed**, And, the OS was gonna be HackerOS but, I discontinued it and **MathLang**, idk if im gonna still develop it and i did: SearchCLI (not working on MCP anymore (tryed to but failed that's why))
+## 2026 Update:
+There is no GPG error and also I use arch, btw also i am very busy working on other stuff (Android custom roms, running Android on Windows Mobile 5/6/6.5 phones, installing custom roms on the htc one m7, all fun stuff
 ### PyCalc
 
 ```bash
